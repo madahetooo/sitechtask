@@ -4,6 +4,9 @@ This is the task solution for SiTech.
 
 ## Getting Started
 # First I  displaying a simple animation screen to load before opening the app
+<img width="200" heigth="400"  src="https://user-images.githubusercontent.com/28203059/212231986-534580f8-07c7-48ed-8b89-2fa48fd0f8c2.png">
+
+
 ![Screenshot 2023-01-13 at 5 30 27 AM](https://user-images.githubusercontent.com/28203059/212231986-534580f8-07c7-48ed-8b89-2fa48fd0f8c2.png)
 # Second I displayed a list of books on the main screen with " Name, Auther and Cover Image "
 ![Screenshot 2023-01-13 at 5 30 06 AM](https://user-images.githubusercontent.com/28203059/212232159-cf735011-bb0c-4ff5-8d63-5e8f4e26d504.png)

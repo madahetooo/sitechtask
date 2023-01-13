@@ -1,8 +1,9 @@
-# sitechtask
+# siTechTask
 
-A new Flutter project.
+This is the task solution for SiTech.
 
 ## Getting Started
+![Screenshot 2023-01-13 at 5 30 27 AM](https://user-images.githubusercontent.com/28203059/212231986-534580f8-07c7-48ed-8b89-2fa48fd0f8c2.png)
 
 This project is a starting point for a Flutter application.
 
